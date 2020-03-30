@@ -1,0 +1,15 @@
+{
+  "name": "screenSERP",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^0.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node screenSERP.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
