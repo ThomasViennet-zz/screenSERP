@@ -5,7 +5,7 @@ const puppeteer = require('puppeteer');
   const browser = await puppeteer.launch({args: ['--no-sandbox', '--disable-setuid-sandbox']});
   const page = await browser.newPage();
 
-  var keywords = ['evoliz', 'evoliz+avis', 'evoliz+lol', 'alternative+evoliz', 'concurrents+evoliz', 'comparateurs+evoliz'];
+  var keywords = ['mot', 'mot+clé'];
 
   console.log('Mots clés :' + keywords);
   for (var i = 0; i < keywords.length; i++) {
