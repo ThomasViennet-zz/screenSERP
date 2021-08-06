@@ -7,4 +7,4 @@ Création de screenshots du SERP pour une liste de mots clés
 	mkdir screens/google
 	node screenSERP
 
-https://thomasviennet.fr
+https://referencime.fr/
